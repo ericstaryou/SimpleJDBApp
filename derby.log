@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jul 29 20:23:59 SGT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0156-369c-7894-00000a87f050 
+on database directory C:\Users\Eric\.netbeans-derby\SQLLink with class loader sun.misc.Launcher$AppClassLoader@60e53b93 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_101/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Users\Eric\Documents\NetBeansProjects\SQLLink
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
